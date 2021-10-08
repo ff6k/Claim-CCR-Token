@@ -1,0 +1,27 @@
+{
+  "name": "CCRToken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.3",
+    "solc": "^0.5.17"
+  },
+  "devDependencies": {
+    "@openzeppelin/truffle-upgrades": "^1.9.1",
+    "truffle-plugin-verify": "0.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blockchain-Laboratories-LLC/CarbonLand-Trust.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blockchain-Laboratories-LLC/CarbonLand-Trust/issues"
+  },
+  "homepage": "https://github.com/Blockchain-Laboratories-LLC/CarbonLand-Trust#readme"
+}
